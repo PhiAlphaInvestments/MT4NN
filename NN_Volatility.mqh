@@ -447,7 +447,7 @@ void CMatrixDouble::PrintMatrix(void){
 
 
 
-
+//https://www.tutorialspoint.com/generate-random-numbers-following-a-normal-distribution-in-c-cplusplus
 double rand_gen() {
    // return a uniformly distributed random value
    return ( (double)(rand()) + 1. )/( (double)(32767) + 1. );

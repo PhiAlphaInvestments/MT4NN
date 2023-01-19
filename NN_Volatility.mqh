@@ -21,8 +21,8 @@
 // #import
 //+------------------------------------------------------------------
 
-inspired by,
-https://github.com/stephencwelch/Neural-Networks-Demystified
+//inspired by,
+//https://github.com/stephencwelch/Neural-Networks-Demystified
 
 
 
